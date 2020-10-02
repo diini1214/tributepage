@@ -1,0 +1,10 @@
+.text-center {
+color: white;
+
+}
+
+body{
+  background: url("giannis.jpg") no-repeat center fixed;
+  background-size: cover;
+ color: white;
+}
