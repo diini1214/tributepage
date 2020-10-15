@@ -8,3 +8,19 @@ body{
   background-size: cover;
  color: white;
 }
+
+.text {
+      right: 70px;
+      bottom: 30px;
+
+}
+
+
+#nba {
+  text-align: center;
+  top: 100%;
+
+
+}
+
+p.dashed {border-style: dashed;}
