@@ -12,7 +12,8 @@ body{
 .text {
       right: 70px;
       bottom: 30px;
-
+       border-style: dashed;
+       border-width: 50px;
 }
 
 
@@ -22,5 +23,3 @@ body{
 
 
 }
-
-p.dashed {border-style: dashed;}
