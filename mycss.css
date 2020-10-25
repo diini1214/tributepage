@@ -1,25 +1,24 @@
-.text-center {
-color: white;
+.text-center {/* This is the text center in my html whos linked to mycss file */
+color: white; /* This is what makes the text centers text white colored*/
 
 }
 
-body{
-  background: url("giannis.jpg") no-repeat center fixed;
-  background-size: cover;
- color: white;
+body{ /* this is my body */
+  background: url("giannis.jpg") no-repeat center fixed;/* This is my bakround*/
+  background-size: cover;/* this makes the bakround size */
+ color: white;/* This gives my text and border the color white  */
 }
 
 .text {
-      right: 70px;
-      bottom: 30px;
-       border-style: solid;
-       border-width: 40px;
-       text-decoration: underline;
+       border-style: solid; /* this is my border a solid border */
+       border-width: 40px; /* this is my borders width in this case it is 40px */
+       text-decoration: underline;/* this is my underline it is the underline in my text */
 }
 
 
 #nba {
-  text-align: center;
-  top: 100%;
-
+  text-align: center;/* this is makes my text to be in the center*/
+  
 }
+
+
